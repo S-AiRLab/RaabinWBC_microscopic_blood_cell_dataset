@@ -6,7 +6,7 @@ This repository contains sample images and corresponding masks for microscopic b
 
 | Image | Mask |
 |-------|------|
-| ![Microscopic Blood Cell](20190330_170050.jpg) | ![Mask](20190330_171040.png) |
+| ![Microscopic Blood Cell](20190330_171040.jpg) | ![Mask](20190330_171040.png) |
 
 The first column shows the original microscopic blood cell image, and the second column shows its corresponding mask.
 
